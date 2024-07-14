@@ -10,13 +10,6 @@
   --secondary-font: "Ubuntu", sans-serif;
 }
 
-body {
-  background-color: var(--dark-black, #181818);
-  color: #f1f1f1;
-  font-family: "Poppins", sans-serif;
-  overflow: hidden;
-}
-
 ::selection {
   background-color: var(--mid-grey);
   color: var(--dark-black);
